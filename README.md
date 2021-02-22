@@ -1,2 +1,3 @@
 # project
-For some purpose only
+
+created this repository to document the results of my work
